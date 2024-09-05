@@ -39,7 +39,7 @@ Use AI tools such as ChatGPT and Claude to help you learn. As you integrate AI t
 
 ### Creating a Grid 📄
 
-Now that we have our site's HTML and CSS is a good state, let's look at how we can incorporate CSS Grid into our site. The main candidate here will be the gallery of images we created in the first checkpoint but you have some flexibility as this is your site. y the end of this stage, your image gallery will be neatly structured, flexible, and visually appealing across devices.
+Now that we have our site's HTML and CSS is a good state, let's look at how we can incorporate CSS Grid into our site. The main candidate here will be the gallery of images we created in the first checkpoint but you have some flexibility as this is your site. By the end of this stage, your image gallery will be neatly structured, flexible, and visually appealing across devices.
 
 #### Deliverables ✅
 

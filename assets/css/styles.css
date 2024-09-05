@@ -85,10 +85,12 @@ body {
 }
 
 .gallery-content {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 10px;
     justify-content: center;
-    flex-wrap: wrap;
+    align-items: start;
+    padding: 10px;
 }
 
 .gallery-item {
@@ -98,6 +100,13 @@ body {
     text-align: center;
     border: 1px solid #ccc;
     border-radius: 8px;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+    .gallery-content {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
 }
 
 /* Contact Us Section */
