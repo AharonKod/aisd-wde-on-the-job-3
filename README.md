@@ -43,6 +43,7 @@ Now that we have our site's HTML and CSS is a good state, let's look at how we c
 
 #### Deliverables ✅
 
+- [ ] We will now continue building on the repository created in checkpoint 1. (Do not create a new repository.)
 - [ ] Apply CSS grid to your gallery of images to create neat rows and columns
 - [ ] Ensure that your grid is responsive. As the window (screen) gets smaller the grid should adapt. This can be done with media queries or the built-in responsive grid.
 - [ ] Use Git to `add`, `commit`, and `push` your changes to the repository for your project.
